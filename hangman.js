@@ -1,4 +1,4 @@
-var programming_languages = [
+let programming_languages = [
 
  "python",
 
